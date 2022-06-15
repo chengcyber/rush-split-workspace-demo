@@ -1,4 +1,5 @@
 {
+  "name": "@demo/remix-demo",
   "private": true,
   "sideEffects": false,
   "scripts": {
