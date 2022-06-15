@@ -1,0 +1,5 @@
+packages:
+  - packages/configs
+  - packages/components
+  - packages/nextjs-blog
+  - packages/remix-demo
