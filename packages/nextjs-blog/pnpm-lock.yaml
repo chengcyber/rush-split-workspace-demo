@@ -1,19 +1,19 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@demo/components': workspace:*
-  '@demo/configs': workspace:*
+  '@demo/components': link:../components
+  '@demo/configs': link:../configs
   next: latest
   react: 17.0.2
   react-dom: 17.0.2
 
 dependencies:
+  '@demo/components': link:../components
   next: 12.1.6_react-dom@17.0.2+react@17.0.2
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
 
 devDependencies:
-  '@demo/components': link:../components
   '@demo/configs': link:../configs
 
 packages:

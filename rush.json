@@ -444,12 +444,12 @@
     {
       "packageName": "@demo/components",
       "projectFolder": "packages/components",
-      "splitWorkspace": true
+      "splitWorkspace": false
     },
     {
       "packageName": "@demo/configs",
       "projectFolder": "packages/configs",
-      "splitWorkspace": true
+      "splitWorkspace": false
     },
     // "libraries" folder (alphabetical order)
     {
