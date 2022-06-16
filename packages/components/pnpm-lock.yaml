@@ -1,0 +1,7 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@demo/configs': workspace:*
+
+devDependencies:
+  '@demo/configs': link:../configs
