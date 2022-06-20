@@ -1,0 +1,17 @@
+{
+  "name": "@demo/configs",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@demo/configs_v1.0.1",
+      "date": "Mon, 20 Jun 2022 05:55:12 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Init"
+          }
+        ]
+      }
+    }
+  ]
+}
