@@ -3,3 +3,4 @@
 global-pnpmfile=${_RUSH_COMMON_TEMP_SPLIT_FOLDER}/global-pnpmfile.cjs
 
 shared-workspace-lockfile=false
+registry=http://localhost:4873/
