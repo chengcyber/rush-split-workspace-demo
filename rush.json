@@ -444,7 +444,8 @@
     {
       "packageName": "@demo/components",
       "projectFolder": "packages/components",
-      "splitWorkspace": false
+      "shouldPublish": true,
+      "splitWorkspace": true
     },
     {
       "packageName": "@demo/configs",
