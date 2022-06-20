@@ -449,6 +449,7 @@
     {
       "packageName": "@demo/configs",
       "projectFolder": "packages/configs",
+      "shouldPublish": true,
       "splitWorkspace": false
     },
     // "libraries" folder (alphabetical order)
