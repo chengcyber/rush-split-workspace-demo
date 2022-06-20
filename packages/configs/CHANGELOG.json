@@ -2,6 +2,18 @@
   "name": "@demo/configs",
   "entries": [
     {
+      "version": "1.0.4",
+      "tag": "@demo/configs_v1.0.4",
+      "date": "Mon, 20 Jun 2022 06:53:48 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Third"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.3",
       "tag": "@demo/configs_v1.0.3",
       "date": "Mon, 20 Jun 2022 06:40:49 GMT",
