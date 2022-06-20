@@ -21,3 +21,4 @@
 # registry=https://registry.npmjs.org/
 always-auth=false
 registry=http://localhost:4873/
+//locahost:4873/:_authToken=${NPM_AUTH_TOKEN}
