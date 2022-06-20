@@ -1,0 +1,22 @@
+{
+  "name": "@demo/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@demo/components_v1.0.1",
+      "date": "Mon, 20 Jun 2022 06:40:49 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Second"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@demo/configs\" to `1.0.3`"
+          }
+        ]
+      }
+    }
+  ]
+}
